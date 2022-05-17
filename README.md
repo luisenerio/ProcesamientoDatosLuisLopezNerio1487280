@@ -1,4 +1,4 @@
-<img src="FCFM.png" align="right" style="width:190px;" />
+<img src="./blob/main/FCFM.png" align="right" style="width:190px;" />
 
 # Procesamiento de Datos
 > Luis Enrique López Nerio
