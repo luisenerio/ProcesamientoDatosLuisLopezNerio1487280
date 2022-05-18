@@ -1,13 +1,9 @@
-<img src="fcfm.png" align="right" style="width:190px;" />
+<img src="fcfm.png" align="right" style="width:150px;" />
 
 # Procesamiento de Datos
 > Luis Enrique López Nerio
 > 1487280  
   
-  
-  
-  
-
 
 Contenido
 ========
