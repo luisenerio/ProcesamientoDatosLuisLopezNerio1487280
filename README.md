@@ -13,9 +13,9 @@ Contenido
 2. [Etapa 2: Análisis de imágenes](#etapa2)
 
 ## Etapa 1: Análisis de texto <a name="etapa1"></a>
-Aqui van las tareas de la etapa 1
+En esta sección se incluiran las tarea de la etapa 1.
 ### Tarea1 <a name="tarea1"></a>
-La tarea 1 consiste en [I'm a relative reference to a repository file](./Tarea1/ejemplo.txt)
+La tarea 1 consiste en el preprocesamiento de un conjunto de datos a elegir. [Tarea1-Preprocesamiento](./Tarea1)
 ## Etapa 2 <a name="etapa2"></a>
 Aqui van las tareas de la etapa 2
 
