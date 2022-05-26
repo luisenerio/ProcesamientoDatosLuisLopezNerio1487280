@@ -21,10 +21,10 @@ La tarea 1 consiste en el preprocesamiento de un conjunto de datos a elegir.
     1. [Jupyter Notebook](./Tarea1/Tarea1LuisLopezNerio.ipynb)
     2. [PDF](./Tarea1/Tarea1LuisLopezNerio.pdf)
     3. [Datos](./Tarea1/Reviews.csv)
-2. [Carpeta Tarea2](##########)
-    1. [Jupyter Notebook](#####)
-    2. [PDF](###############)
-    3. [Datos](################3)
+2. [Carpeta Tarea2](./Tarea2)
+    1. [Jupyter Notebook](./Tarea1/Tarea2LuisLopezNerio.ipynb)
+    2. [PDF](./Tarea1/Tarea1LuisLopezNerio.pdf)
+    3. [Datos](./Tarea1/Reviews.csv)
 ## Etapa 2 <a name="etapa2"></a>
 Aqui van las tareas de la etapa 2
 
