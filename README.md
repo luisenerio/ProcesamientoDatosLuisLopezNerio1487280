@@ -21,6 +21,8 @@ La tarea 1 consiste en el preprocesamiento de un conjunto de datos a elegir.
     1. [Jupyter Notebook](./Tarea1/Tarea1LuisLopezNerio.ipynb)
     2. [PDF](./Tarea1/Tarea1LuisLopezNerio.pdf)
     3. [Datos](./Tarea1/Reviews.csv)
+La tarea 2 consiste en el análisis de sentimiento de un conjunto de datos elegido en la tarea 1
+### Tarea2 <a name="tarea2"></a>
 2. [Carpeta Tarea2](./Tarea2)
     1. [Jupyter Notebook](./Tarea1/Tarea2LuisLopezNerio.ipynb)
     2. [PDF](./Tarea1/Tarea1LuisLopezNerio.pdf)
