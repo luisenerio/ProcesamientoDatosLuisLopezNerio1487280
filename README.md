@@ -31,7 +31,7 @@ La tarea 2 consiste en el análisis de sentimiento de un conjunto de datos elegi
 La tarea 3 consiste en utilizando una base de datos de interés y técnicas mencionadas en clase, realizar una
 visualización, predicción o clasificación de sus datos. Al finalizar el modelo, establecer cuál es la
 métrica adecuada para evaluarlo, y mostrar sus resultados.
-### Tarea2 <a name="tarea3"></a>
+### Tarea3 <a name="tarea3"></a>
 2. [Carpeta Tarea3](./Tarea3)
     1. [Jupyter Notebook](./Tarea3/Tarea3LuisLopezNerio.ipynb)
     2. [PDF](./Tarea3/Tarea3LuisLopezNerio.pdf)
