@@ -49,14 +49,14 @@ de la comunidad de wikipedia. Los comentarios cuentan con 1 o más etiquetas.
 En esta sección se incluiran las tareas de la etapa 2
 ### Tarea4 <a name="tarea4"></a>
 La tarea 4 consiste en el procesamiento de imagenes mediante transformaciones básicas como rotación, corte, escalamiento y filtros más complejos
-como suavizamientos, contrastes, etc.\ 
-4. [Carpeta Tarea4](./Tarea4)\
-    1. [Jupyter Notebook](./Tarea4/Tarea4LuisLopezNerio.ipynb)\
-    2. [Imagenes](./Tarea4/Imagenes)\
+como suavizamientos, contrastes, etc.<br/>
+4. [Carpeta Tarea4](./Tarea4)<br/>
+    1. [Jupyter Notebook](./Tarea4/Tarea4LuisLopezNerio.ipynb)<br/>
+    2. [Imagenes](./Tarea4/Imagenes)<br/>
 
 ### Tarea 5 <a name="tarea5"></a> 
-La tarea 5 consiste en la creación de una red neuronal para un conjunto de imagenes de vegetales.\
-5. [Carpeta Tarea 5](./Tarea5)\
-    1. [Jupyter Notebook](./Tarea5/)\ 
-    2. [Imagenes](./Tarea5/Vegetable%20Images)\ 
+La tarea 5 consiste en la creación de una red neuronal para un conjunto de imagenes de vegetales.<br/>
+5. [Carpeta Tarea 5](./Tarea5)<br/>
+    1. [Jupyter Notebook](./Tarea5/)<br/>
+    2. [Imagenes](./Tarea5/Vegetable%20Images)<br/>
 
