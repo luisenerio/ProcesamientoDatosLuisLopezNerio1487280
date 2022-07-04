@@ -13,10 +13,10 @@ Contenido
     2. [Tarea 2](#tarea2)
     3. [Tarea 3](#tarea3)
     4. [Miniproyecto](#miniproyecto)
-2. [Etapa 2: Análisis de imágenes](#etapa2)
-    5. [Tarea 5](#tarea5)
-    6. [Tarea 6](#tarea6)
-    7. [Tarea 7](#tarea7)
+2. [Etapa 2: Análisis de imágenes](#etapa2)<br/>
+    5. [Tarea 5](#tarea5)<br/>
+    6. [Tarea 6](#tarea6)<br/>
+    7. [Tarea 7](#tarea7)<br/>
 
 ## Etapa 1: Análisis de texto <a name="etapa1"></a>
 En esta sección se incluiran las tarea de la etapa 1.
@@ -61,3 +61,9 @@ como suavizamientos, contrastes, etc.<br/>
 La tarea 6 consiste en la creación de una red neuronal para un conjunto de imagenes de vegetales.<br/>
 5. [Carpeta Tarea 6](./Tarea6)<br/>
 &emsp; 1. [Jupyter Notebook](./Tarea6/Tarea6LuisEnriqueLopezNerio.ipynb)<br/>
+
+
+### Tarea 7 <a name="tarea7"></a> 
+La tarea 7 consiste en la creación de una red neuronal utilizando transferencia<br/>
+5. [Carpeta Tarea 7](./Tarea7)<br/>
+&emsp; 1. [Jupyter Notebook](./Tarea7/Tarea 7.ipynb)<br/>
