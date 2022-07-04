@@ -14,6 +14,9 @@ Contenido
     3. [Tarea 3](#tarea3)
     4. [Miniproyecto](#miniproyecto)
 2. [Etapa 2: Análisis de imágenes](#etapa2)
+    5. [Tarea 5](#tarea5)
+    6. [Tarea 6](#tarea6)
+    7. [Tarea 7](#tarea7)
 
 ## Etapa 1: Análisis de texto <a name="etapa1"></a>
 En esta sección se incluiran las tarea de la etapa 1.
@@ -47,15 +50,14 @@ de la comunidad de wikipedia. Los comentarios cuentan con 1 o más etiquetas.
 
 ## Etapa 2: Análisis de imagenes <a name="etapa2"></a>
 En esta sección se incluiran las tareas de la etapa 2
-### Tarea4 <a name="tarea4"></a>
-La tarea 4 consiste en el procesamiento de imagenes mediante transformaciones básicas como rotación, corte, escalamiento y filtros más complejos
+### Tarea 5 <a name="tarea5"></a>
+La tarea 5 consiste en el procesamiento de imagenes mediante transformaciones básicas como rotación, corte, escalamiento y filtros más complejos
 como suavizamientos, contrastes, etc.<br/>
-4. [Carpeta Tarea4](./Tarea4)<br/>
-&emsp;1. [Jupyter Notebook](./Tarea4/Tarea4LuisLopezNerio.ipynb)<br/>
-&emsp;2. [Imagenes](./Tarea4/Imagenes)<br/>
+4. [Carpeta Tarea5](./Tarea5)<br/>
+&emsp;1. [Jupyter Notebook](./Tarea5/Tarea5LuisLopezNerio.ipynb)<br/>
+&emsp;2. [Imagenes](./Tarea5/Imagenes)<br/>
 
-### Tarea 5 <a name="tarea5"></a> 
-La tarea 5 consiste en la creación de una red neuronal para un conjunto de imagenes de vegetales.<br/>
-5. [Carpeta Tarea 5](./Tarea5)<br/>
-&emsp; 1. [Jupyter Notebook](./Tarea5/)<br/>
-&emsp; 2. [Imagenes](./Tarea5/Vegetable%20Images)<br/>
+### Tarea 6 <a name="tarea6"></a> 
+La tarea 6 consiste en la creación de una red neuronal para un conjunto de imagenes de vegetales.<br/>
+5. [Carpeta Tarea 6](./Tarea6)<br/>
+&emsp; 1. [Jupyter Notebook](./Tarea6/Tarea6LuisEnriqueLopezNerio.ipynb)<br/>
