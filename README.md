@@ -66,4 +66,4 @@ La tarea 6 consiste en la creación de una red neuronal para un conjunto de imag
 ### Tarea 7 <a name="tarea7"></a> 
 La tarea 7 consiste en la creación de una red neuronal utilizando transferencia<br/>
 5. [Carpeta Tarea 7](./Tarea7)<br/>
-&emsp; 1. [Jupyter Notebook](./Tarea7/Tarea 7.ipynb)<br/>
+&emsp; 1. [Notebook_Tarea7](./Tarea7/Tarea 7.ipynb)<br/>
