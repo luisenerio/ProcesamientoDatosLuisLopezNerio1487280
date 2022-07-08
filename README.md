@@ -17,7 +17,7 @@ Contenido
     5. [Tarea 5](#tarea5)<br/>
     6. [Tarea 6](#tarea6)<br/>
     7. [Tarea 7](#tarea7)<br/>
-
+    8. [Miniproyecto2](#miniproyecto2)
 ## Etapa 1: Análisis de texto <a name="etapa1"></a>
 En esta sección se incluiran las tarea de la etapa 1.
 ### Tarea1 <a name="tarea1"></a>
@@ -67,3 +67,8 @@ La tarea 6 consiste en la creación de una red neuronal para un conjunto de imag
 La tarea 7 consiste en la creación de una red neuronal utilizando transferencia<br/>
 5. [Carpeta Tarea 7](./Tarea7)<br/>
 &emsp; 1. [Notebook_Tarea7](./Tarea7/Tarea 7.ipynb)<br/>
+
+
+El miniproyecto consiste en la aplicación de la aplicación de una red neuronal para el reconocimiento de imagenes de vegetales.
+* Miniproyecto2 [Carpeta Tarea8](./Miniproyecto2)
+    1. [Jupyter Notebook](./Miniproyecto2/Miniproyecto.pptx)
