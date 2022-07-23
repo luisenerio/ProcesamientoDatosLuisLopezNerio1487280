@@ -67,12 +67,14 @@ La tarea 6 consiste en la creación de una red neuronal para un conjunto de imag
 ### Tarea 7 <a name="tarea7"></a> 
 La tarea 7 consiste en la creación de una red neuronal utilizando transferencia<br/>
 7. [Carpeta Tarea 7](./Tarea7)<br/>
-&emsp; 1. [Notebook_Tarea7](./Tarea7/Tarea 7.ipynb)<br/>
+&emsp; 1. [Notebook_Tarea7](./Tarea7/Tarea7.ipynb)<br/>
 
 
 El miniproyecto consiste en la aplicación de la aplicación de una red neuronal para el reconocimiento de imagenes de vegetales.
 * Miniproyecto2 [Carpeta Tarea8](./Miniproyecto2)
     1. [Jupyter Notebook](./Miniproyecto2/Miniproyecto.pptx)
 
-## Proyecto final <a name="ProyectoFinal"></a>
- [Carpeta Proyecto Final](./Proyecto Final)<br/>
+## Proyecto final <a name="ProyectoFinal"></a> 
+En esta carpeta se encuentran los archivos del proyecto final 
+[Carpeta Proyecto Final](./ProyectoFinal)
+
