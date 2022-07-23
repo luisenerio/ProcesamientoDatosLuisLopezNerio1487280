@@ -54,7 +54,7 @@ En esta sección se incluiran las tareas de la etapa 2
 ### Tarea 5 <a name="tarea5"></a>
 La tarea 5 consiste en el procesamiento de imagenes mediante transformaciones básicas como rotación, corte, escalamiento y filtros más complejos
 como suavizamientos, contrastes, etc.<br/>
-4. [Carpeta Tarea5](./Tarea5)<br/>
+5. [Carpeta Tarea5](./Tarea5)<br/>
 &emsp;1. [Jupyter Notebook](./Tarea5/Tarea5LuisLopezNerio.ipynb)<br/>
 &emsp;2. [Imagenes](./Tarea5/Imagenes)<br/>
 
@@ -66,7 +66,7 @@ La tarea 6 consiste en la creación de una red neuronal para un conjunto de imag
 
 ### Tarea 7 <a name="tarea7"></a> 
 La tarea 7 consiste en la creación de una red neuronal utilizando transferencia<br/>
-5. [Carpeta Tarea 7](./Tarea7)<br/>
+7. [Carpeta Tarea 7](./Tarea7)<br/>
 &emsp; 1. [Notebook_Tarea7](./Tarea7/Tarea 7.ipynb)<br/>
 
 
@@ -75,4 +75,4 @@ El miniproyecto consiste en la aplicación de la aplicación de una red neuronal
     1. [Jupyter Notebook](./Miniproyecto2/Miniproyecto.pptx)
 
 ## Proyecto final <a name="ProyectoFinal"></a>
-
+ [Carpeta Proyecto Final](./Proyecto Final)<br/>
